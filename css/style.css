@@ -82,6 +82,13 @@
     font-size: 24px;
     padding: 1rem 3rem; 
     text-transform: uppercase; 
+    transition: 250ms ease-in;
+}
+
+.button:hover {
+    color:black;
+    background-color: #00ff6c;
+
 }
 
 
