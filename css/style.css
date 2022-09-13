@@ -1,8 +1,5 @@
 @import url('https://fonts.googleapis.com/css?family=Raleway:300,400,700,900');
 
-/* navbar */
-
-/* color to be used --- #00ff6c */
 
 * {
     margin: 0px;
@@ -54,10 +51,6 @@
     justify-content: center;
     align-items: center;
     height: calc(100% - 200px);
-
-     /* 
-        check comment
-        d== flex m no padding yeh?*/
 }
 
 .heading {
@@ -89,9 +82,4 @@
     background-color: #00ff6c;
 }
 
-
-/* why i cant see complete terminal 
-    kuchh error hai?
-    
-*/
 
